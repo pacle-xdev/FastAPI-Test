@@ -1,0 +1,11 @@
+fastapi
+pandas
+statsmodels
+numpy
+scikit-learn
+sklearn
+requests
+json
+time
+asyncio
+websockets
